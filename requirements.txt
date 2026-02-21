@@ -1,0 +1,9 @@
+torch
+torchaudio
+openai-whisper
+groq
+streamlit
+sounddevice
+scipy
+librosa
+pandas

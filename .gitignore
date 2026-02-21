@@ -1,0 +1,16 @@
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore large dataset files & archives
+dataset/speechocean762/
+dataset/*.tar.gz
+*.tar.gz
+*.csv
+
+# Ignore local audio files
+*.mp3
+*.wav
+
+# Ignore environment variables / API Keys
+.env
